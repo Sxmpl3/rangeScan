@@ -2,6 +2,7 @@
 
 Tool for discover active hosts in an IP range.
 
+![image](https://user-images.githubusercontent.com/116309678/208515962-242fa53c-357a-43a4-87ec-601e55a0f501.png)
 
 
 # How to install
